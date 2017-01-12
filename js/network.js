@@ -103,7 +103,7 @@ function displayDetails(d) {
    
    //First threshold to slider
    setThresholdValue(minthreshod,maxthreshod );
- plotNetwork(study_links);
+	plotNetwork(study_links);
    displayDetails({name: 'skcm_broad'});
  });
  
@@ -186,15 +186,20 @@ function plotNetwork(input, divCSS="#container") {
  for (var s in studyFreqs) {
    studyArray.push({study: s, freq: studyFreqs[s]});
  }
-
+// console.log(studyFreqs);
+	var edgeScale = d3.scale.linear()
+                       .domain([1,45]).range([1,5]);
+	var edgeLinkStrength = d3.scale.linear()
+                       .domain([1,45]).range([0,1]);
   var nodeScale = d3.scale.linear()
                        .domain(d3.extent(studyArray, function(i) { return +i.freq })).range([10,35]);
-
+	//console.log(force.links());
    var link = svg.selectAll(".link")
 				.data(force.links())
 				.enter().append("line")
 				.attr("class", "link")
 				.style("stroke", "#ccc")
+				.style('stroke-width', function (r){ return edgeScale(r.value);})
 				.on('mouseover', function(d) {
 							drawBubble(d);
 							svg.selectAll(".link").transition()
@@ -309,17 +314,19 @@ function plotNetwork(input, divCSS="#container") {
                                         }
                                      }
                             //start link
+                                     force.links(newlinks);
+									 force.nodes(d3.values(nodes));
+									 force.gravity(0.6);
                                      
                                      
                                      
-                                     
-                                     link = link.data(newlinks);
+                                     link = link.data(force.links());
                                      link.exit().remove();
-                                     link.enter().insert("line", ".node").attr("class", "link").style("stroke", "#ccc")
+                                     link.enter().insert("line", ".node").attr("class", "link").style("stroke", "#ccc").style('stroke-width', function (r){ return edgeScale(r.value);})
                                      .on('mouseover', function(d) {
                                          drawBubble(d);
                                          svg.selectAll(".link").transition()
-                                         .duration(300)
+                                         .duration(300)										 
                                          .style('stroke-opacity', function(l) {
                                                 if (d.source.name === l.source.name && d.target.name === l.target.name) {
                                                 return 1;
@@ -342,19 +349,15 @@ function plotNetwork(input, divCSS="#container") {
                                      //end with link
                                      
                                      // start node
-                                     
+                                     var newScale = d3.scale.linear()													
+													.domain([1, newlinks.length]).range([20,400]);
                                      
                                      node = node.data(d3.values(nodes));
                                      node.enter().insert("circle", ".cursor").attr("class", "node").attr("r", 5).call(force.drag);
+									 force.on("tick",tick).charge(-3000).linkDistance(function(d) { return newScale(newlinks.length) } )
                                      force.start();
                                     //end with link
-                                     
-                                     
-                                     
-                                     
-                                     
-                                     
-                                     force.start();
+                              
 				
 				
 			});
