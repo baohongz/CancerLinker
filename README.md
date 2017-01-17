@@ -20,7 +20,10 @@ Major Features:
 
 •	Also we have made sure that the colour of the nodes matches with colour of the cancer study types that are world wide accepted.
 
-•	We have also implemented the bubble chart, here the user is allowed to click on the link connecting different cancer protiens. On clicking on  a particular link connecting two protiens, we compute the common genes that are present in both cancer study id's. After computing the common genes, the same is displayed in the form of bubble chart
+•	We have also implemented the bubble chart, here the user is allowed to click on the link connecting different cancer protiens. On clicking on  a particular link connecting two protiens, we compute the common genes that are present in both cancer study id's. After computing the common genes, the same is displayed in the form of bubble chart.
 
+•	We have also implemented protein images in the bubble chart, here the user is allowed to click on the individual nodes or links in the cancer network. If one node in the study network is clicked, then the bubble chart shows all the proteins associated with that study as well as other related studies. If one link is clicked, then the common proteins of the 2 nodes in that link will be shown.
 
+•	The protein images of the bubble chart are taken from this site: http://www.rcsb.org/pdb/home/home.do. Some proteins do not have any structured images yet. We show an error message for them in the bubble chart. 
 
+•	We call each protein image with an id called PDB id. Every gene has some PDB ids. We have found a file called pdb.csv where there is a list of human genes and their PDB ids. We use this file to call images of proteins. 
