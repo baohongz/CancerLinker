@@ -122,6 +122,8 @@ function plotParallelCoordinate(clinicalData) {
 
 }
 
+var data_pdb = [];
+
 function drawBubble(d, divCSS="#proteinHolder") {
 
   //d3.select("#par_coords").remove();
@@ -224,22 +226,72 @@ function drawBubble(d, divCSS="#proteinHolder") {
   var node = bubbleSvg.selectAll(".node")
         .data(bubble.nodes(classes(root))
         .filter(function(d) { return !d.children; }))
-      .enter().append("g")
+        .enter().append("g")
         .attr("class", "node")
         .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+  //patterns for image in bubble
+  var defs = node.append('defs');
+
+  var data; 
+
+  d3.csv("data/pdb.csv", function(_data){
+            data = _data;
+           // console.log(data);
+
+            data.forEach(function(d){ 
+              if(d.pdb)
+                data_pdb.push({ gene_name: d.Protein, pdb_value: d.pdb});
+            //  else
+            //    data_pdb.push({ gene_name: d.Protein, pdb_value: "4PS5" })
+              //  console.log(data_pdb);
+          })
+        });
+
+//  console.log(data_pdb);
+ // var pdb_id = 0;
+
+  defs.selectAll(".circle-pattern")
+      .data(bubble.nodes(classes(root)))
+      .enter().append("pattern")
+      .attr("class", "circle-pattern")
+      .attr('id', function(d){ return d.className })
+      .attr('width', '100%')
+      .attr('height', '100%')
+      .attr('patternContentUnits', 'objectBoundingBox')
+      .append('image')
+      .attr('width', 1)
+      .attr('height', 1)
+      .attr('preserveAspectRatio', 'none')
+      .attr('xlink:href', function(d){
+
+        var pdb_id = []; 
+        data_pdb.forEach(function(p){
+
+         if(d.className == p.gene_name){ pdb_id.push(p.pdb_value);  }
+           return pdb_id
+      });
+          // console.log(pdb_id);
+          return "http://www.rcsb.org/pdb/images/" + pdb_id[0] + "_bio_r_500.jpg?bioNum=1"
+      }) ;
+ 
+
 
     node.append("circle")
         .attr("r", function(d) { return d.r; })
         .style("fill", function(d) {
           var re = finalData.filter(function(s) { return s.gene ==  d.packageName});
           return colorScale(re[0].totalFreq);
-        });
+        })
+        .style("fill", function(d){
+       //   console.log(d.className);
+          return "url(#" + d.className + ")"});
 
-    node.append("text")
-        .attr("dy", ".3em")
+  /*  node.append("text")
+        .attr("dy", "3em")
         .style("text-anchor", "middle")
         .style("pointer-events", "none")
-        .text(function(d) { return d.className.substring(0, d.r / 3); });
+        .text(function(d) { return d.className.substring(0, d.r / 3); });*/
 
     bubbleSvg.append("text")
         .attr("x", (divWidth / 2))
@@ -313,22 +365,56 @@ function drawStudyBubble(study, divCSS="#proteinHolder") {
   var node = bubbleSvg.selectAll(".node")
         .data(bubble.nodes(classes(root))
         .filter(function(d) { return !d.children; }))
-      .enter().append("g")
+        .enter().append("g")
         .attr("class", "node")
         .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+
+        var defs = node.append('defs');
+
+
+  defs.selectAll(".circle-pattern")
+      .data(bubble.nodes(classes(root)))
+      .enter().append("pattern")
+      .attr("class", "circle-pattern")
+      .attr('id', function(d){ return d.className })
+      .attr('width', '100%')
+      .attr('height', '100%')
+      .attr('patternContentUnits', 'objectBoundingBox')
+      .append('image')
+      .attr('width', 1)
+      .attr('height', 1)
+      .attr('preserveAspectRatio', 'none')
+      .attr('xlink:href', function(d){
+
+        var pdb_id = []; 
+        data_pdb.forEach(function(p){
+
+         if(d.className == p.gene_name){ pdb_id.push(p.pdb_value);  }
+           return pdb_id
+      });
+          // console.log(pdb_id);
+          return "http://www.rcsb.org/pdb/images/" + pdb_id[0] + "_bio_r_500.jpg?bioNum=1"
+      }) ;
+ 
+
 
     node.append("circle")
         .attr("r", function(d) {
           var pt = studyProteins.filter(function(s) { return s.protein ==  d.className});
-          return pScale(pt[0].freq);
-        }).style("fill", function(d) { return color; });
+          return pScale(pt[0].freq);})
+        .style("fill", function(d) { return color; })
+        .style("fill", function(d){
+       //   console.log(d.className);
+          return "url(#" + d.className + ")"});
 
-    node.append("text")
-        .attr("dy", ".3em")
+  /*  node.append("text")
+        .attr("dy", "3em")
         .style("text-anchor", "middle")
         .style("pointer-events", "none")
-        .text(function(d) { return d.className.substring(0, d.r / 3); });
-	node.append("svg:title").text(function(d){
+        .text(function(d) { return d.className.substring(0, d.r / 3); });*/
+	
+  node.append("svg:title").text(function(d){
 		var pt = studyProteins.filter(function(s) { return s.protein ==  d.className});
           return "Freq: " + pt[0].freq;
 		
