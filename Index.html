@@ -1,282 +1,278 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
+  <!DOCTYPE html>
+  <meta charset="utf-8">
+  <style>
 
-.node {
+  .node {
     stroke: #fff;
     stroke-width: 1.5px;
-}
-.link {
+  }
+  .link {
     stroke-opacity: .6;
-}
+  }
 
-h3 {
+  h3 {
     color: #1ABC9C;
     text-align:center;
     font-style: italic;
     font-size: 14px;
     font-family: "Helvetica";
-}
-svg{
-float: left;
+  }
+  svg{
+    float: left;
 
-}
-#container{
-  float: left;
-  width: 500px;
-  border: 1px solid #000;
-}
-#slider{
-  float:left;
-  width: 500px;
+  }
+  #container{
+    float: left;
+    width: 500px;
+    border: 1px solid #000;
+  }
+  #slider{
+    float:left;
+    width: 500px;
 
-}
-#fdg{
-  float:left;
-  width: 500px;
+  }
+  #fdg{
+    float:left;
+    width: 500px;
 
-}
-</style>
-<script src="https://d3js.org/d3.v3.min.js"></script>
-<script
-src="https://code.jquery.com/jquery-2.0.2.js"
-integrity="sha256-0u0HIBCKddsNUySLqONjMmWAZMQYlxTRbA8RfvtCAW0="
-crossorigin="anonymous"></script>
-
-
+  }
+  </style>
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <script
+  src="https://code.jquery.com/jquery-2.0.2.js"
+  integrity="sha256-0u0HIBCKddsNUySLqONjMmWAZMQYlxTRbA8RfvtCAW0="
+  crossorigin="anonymous"></script>
 
 
-<div id="container">
-  <div id="slider">
+
+
+  <div id="container">
+    <div id="slider">
       <h3> Link threshold <label id ="lblminthreshold"></label> <input type="range" id="thersholdSlider" min=0 max =178 value=0 name="points"> <label id ="lblmaxthreshold"></label>  </h3>
+    </div>
+    <div id="fdg"></div>
   </div>
-  <div id="fdg"></div>
-</div>
 
-<div id="bcg"></div>
-<div id="pcg"></div>
-<script>
+  <div id="bcg"></div>
+  <div id="pcg"></div>
+  <script>
 
-var width = 500,
-    height = 500;
+  var width = 500,
+  height = 500;
 
-//Set up the colour scale
-var color = d3.scale.category20();
+  //Set up the colour scale
+  var color = d3.scale.category20();
 
-//Set up the force layout
-   var force = d3.layout.force()
-        .gravity(0.05)
-      .distance(100)
-      .charge(-100)
-        .size([width, height]);
- 
-//Append a SVG to the body of the html page. Assign this SVG as an object to svg
-var svg = d3.select("#fdg").append("svg")
-    .attr("width", width)
-    .attr("height", height)
-  //.on("dblclick", threshold);
-svg.append("rect").attr("x", 0).attr("y",0).attr("width",width).attr("height", height).style("stroke", "red").attr("stroke-width",0.5).attr("fill", "none");
-//Read the data from the mis element
+  //Set up the force layout
+  var force = d3.layout.force()
+  .linkStrength(0.02)
+  .gravity(0.05)
+  .distance(80)
+  .charge(-160)
+  .size([width, height]);
 
-var datatum;
-  
-d3.csv("study_genes_count.csv", function(data) {
-//d3.csv("cancer_genes.csv", function(data) {
-       datatum = data;
-  minfreq =d3.min(data, function(d){return d.freq;});
-  maxfreq =d3.max(data, function(d){return d.freq;});
-  console.log(minfreq);
-  console.log(maxfreq);
-  var graphs = {"nodes": [], "links": []};
-  var data_count = d3.nest()
-                      .key(function(d) { return d.study; })
-                      .entries(data);
-  data_count.forEach(function(d){
+  //Append a SVG to the body of the html page. Assign this SVG as an object to svg
+  var svg = d3.select("#fdg").append("svg")
+  .attr("width", width)
+  .attr("height", height)
+    //.on("dblclick", threshold);
+    svg.append("rect").attr("x", 0).attr("y",0).attr("width",width).attr("height", height).style("stroke", "red").attr("stroke-width",0.5).attr("fill", "none");
+  //Read the data from the mis element
+
+  var datatum;
+
+  d3.csv("study_genes_count.csv", function(data) {
+  //d3.csv("cancer_genes.csv", function(data) {
+   datatum = data;
+   minfreq =d3.min(data, function(d){return d.freq;});
+   maxfreq =d3.max(data, function(d){return d.freq;});
+   console.log(minfreq);
+   console.log(maxfreq);
+   var graphs = {"nodes": [], "links": []};
+   var data_count = d3.nest()
+   .key(function(d) { return d.study; })
+   .entries(data);
+   data_count.forEach(function(d){
     graphs.nodes.push({"name": d.key, "freq": d.values.length, "total": d3.sum(d.values, function (r){return r.freq }), "group": d.values[0].study_type});
 
   })
-  console.log(data_count[0].values[0].study_type);
-  //start of links
+   console.log(data_count[0].values[0].study_type);
+    //start of links
 
-          for(var item=0;item<data_count.length-1; item++){
+    for(var item=0;item<data_count.length-1; item++){
+      var tempobject1 =d3.nest()
+      .key(function(d) { return d.protein; })
+      .rollup(function(v){return v.length})
+      .entries(data_count[item].values);
+      var commonarray =[], coutarray=[];
+      tempobject1.forEach(function(d){
+        commonarray.push({"name":d.key});
+      })
+      //  console.log(commonarray);
+      for(var nextitem =item+1; nextitem< data_count.length; nextitem++){
 
-        var tempobject1 =d3.nest()
-                        .key(function(d) { return d.protein; })
-                        .rollup(function(v){return v.length})
-                        .entries(data_count[item].values);
-        var commonarray =[], coutarray=[];
-            tempobject1.forEach(function(d){
-                                commonarray.push({"name":d.key});
-                          })
-     //  console.log(commonarray);
-            for(var nextitem =item+1; nextitem< data_count.length; nextitem++){
+        var tempobject2 =d3.nest()
+        .key(function(d) { return d.protein; })
+        .rollup(function(v){return v.length})
+        .entries(data_count[nextitem].values);
 
-                        var tempobject2 =d3.nest()
-                        .key(function(d) { return d.protein; })
-                        .rollup(function(v){return v.length})
-                        .entries(data_count[nextitem].values);
-
-            tempobject2.forEach(function(d){
-                                commonarray.push({"name":d.key});
-                           })
-
-
-       var sortedobject = d3.nest()
-       .key(function(d){return d.name})
-       .rollup(function(v){return v.length})
-       .entries(commonarray);
-       var filter = sortedobject.filter(function (element){
-                                        if(element.values>1)
-                                        return element;
-                                        });
-       if(filter.length>0){
-       //console.log("new connection inserted at" + item + "and "+ nextitem);
-    graphs.links.push({"source":item, "target": nextitem, "value": filter.length });}
-
-            }//end of loop 2
-              //console.log(filter.length);
-       }//end of loop 1
-
-       var max = d3.max(graphs.links, function(d){return d.value});
-        var min = d3.min(graphs.links, function(d){return d.value});
-       setThresholdValue(min, max);
-       function setThresholdValue(min, max){
-       var thresholdvalue = document.getElementById("thersholdSlider");
-       thresholdvalue.min =min;
-       thresholdvalue.max = max;
-       thresholdvalue.value = min;
-       document.getElementById("lblminthreshold").innerHTML=min;
-       document.getElementById("lblmaxthreshold").innerHTML=max;
-       }
-
-console.log("The biggest circle number is: "+ d3.max(graphs.nodes, function(d){return d.total}))
-
-       graphRec=JSON.parse(JSON.stringify(graphs)); //Add this line to convert to string and convert back to object, why???
-       // The content is shorten of this new
-       var linkScale = d3.scale.linear().domain([min,max]).range([300,30]);
-       var thickScale =d3.scale.linear().domain([min,max]).range([0.5,2]);
-       var circleScale =d3.scale.linear().domain([d3.min(graphs.nodes, function(d){return d.total}),d3.max(graphs.nodes, function(d){return d.total})]).range([10,40]);
+        tempobject2.forEach(function(d){
+          commonarray.push({"name":d.key});
+        })
 
 
+        var sortedobject = d3.nest()
+        .key(function(d){return d.name})
+        .rollup(function(v){return v.length})
+        .entries(commonarray);
+        var filter = sortedobject.filter(function (element){
+          if(element.values>1)
+            return element;
+        });
+        if(filter.length>0){
+         //console.log("new connection inserted at" + item + "and "+ nextitem);
+         graphs.links.push({"source":item, "target": nextitem, "value": filter.length });}
 
-       force.nodes(graphs.nodes)
-       .links(graphs.links)
-      // .linkDistance(280)
-       .start();
+              }//end of loop 2
+                //console.log(filter.length);
+         }//end of loop 1
 
-     // console.log(thickScale(178))
-function update(nodes,links){
-            //start drawing link
-      svg.selectAll(".link").remove();
-      svg.selectAll(".node").remove();
-        var link = svg.selectAll(".link")
-                      .data(force.links());
+         var max = d3.max(graphs.links, function(d){return d.value});
+         var min = d3.min(graphs.links, function(d){return d.value});
+         setThresholdValue(min, max);
+         function setThresholdValue(min, max){
+           var thresholdvalue = document.getElementById("thersholdSlider");
+           thresholdvalue.min =min;
+           thresholdvalue.max = max;
+           thresholdvalue.value = min;
+           document.getElementById("lblminthreshold").innerHTML=min;
+           document.getElementById("lblmaxthreshold").innerHTML=max;
+         }
 
-       link
-       .enter().insert("line")
-       .attr("class", "link")
-       .style("stroke","gray")
-       .style("stroke-width", function(d){return thickScale(d.value)})
+         console.log("The biggest circle number is: "+ d3.max(graphs.nodes, function(d){return d.total}))
 
-       link.exit().remove();
-    //end of drawing link
+         graphRec=JSON.parse(JSON.stringify(graphs)); //Add this line to convert to string and convert back to object, why???
+         // The content is shorten of this new
+         var linkScale = d3.scale.linear().domain([min,max]).range([300,30]);
+         var thickScale =d3.scale.linear().domain([min,max]).range([0.5,2]);
+         var circleScale =d3.scale.linear().domain([d3.min(graphs.nodes, function(d){return d.total}),d3.max(graphs.nodes, function(d){return d.total})]).range([10,40]);
 
-       var node = svg.selectAll(".node")
-                    .data(force.nodes());
 
-       node
-                .enter().append("circle")
-                .attr("class", "node")
-                .attr("r", function(d){return circleScale(d.total)})
-                .style("fill", function (d) {
-                    return getColor(d.group);
-              }).call(force.drag);
-       node.append("svg:title").text(function(d){return "Freq: " + d.name});
-       node.append("text")
-           .attr("x", 12)
-           .attr("dy", ".35em")
-           .style("fill", '#000000')
-           .text(function(d) { return d.name; });
+
+         force.nodes(graphs.nodes)
+         .links(graphs.links)
+        // .linkDistance(280)
+        .start();
+
+       // console.log(thickScale(178))
+       function update(nodes,links){
+              //start drawing link
+              svg.selectAll(".link").remove();
+              svg.selectAll(".node").remove();
+              var link = svg.selectAll(".link")
+              .data(force.links());
+
+              link
+              .enter().insert("line")
+              .attr("class", "link")
+              .style("stroke","gray")
+              .style("stroke-width", function(d){return thickScale(d.value)})
+
+              link.exit().remove();
+      //end of drawing link
+
+      var node = svg.selectAll(".node")
+      .data(force.nodes());
+
+      node
+      .enter().append("circle")
+      .attr("class", "node")
+      .attr("r", function(d){return circleScale(d.total)})
+      .style("fill", function (d) {
+        return getColor(d.group);
+      }).call(force.drag);
+      node.append("svg:title").text(function(d){return "Freq: " + d.name});
+      node.append("text")
+      .attr("x", 12)
+      .attr("dy", ".35em")
+      .style("fill", '#000000')
+      .text(function(d) { return d.name; });
       node.exit().remove();
 
 
-       //Now we are giving the SVGs co-ordinates - the force layout is generating the co-ordinates which this code is using to update the attributes of the SVG elements
-       force.on("tick", function () {
-                link.attr("x1", function (d) {
-                          return d.source.x;
-                          })
-                .attr("y1", function (d) {
-                      return d.source.y;
-                      })
-                .attr("x2", function (d) {
-                      return d.target.x;
-                      })
-                .attr("y2", function (d) {
-                      return d.target.y;
-                      });
+         //Now we are giving the SVGs co-ordinates - the force layout is generating the co-ordinates which this code is using to update the attributes of the SVG elements
+         force.on("tick", function () {
+          link.attr("x1", function (d) {
+            return d.source.x;
+          })
+          .attr("y1", function (d) {
+            return d.source.y;
+          })
+          .attr("x2", function (d) {
+            return d.target.x;
+          })
+          .attr("y2", function (d) {
+            return d.target.y;
+          });
 
-                node.attr("cx", function (d) {
-                          return d.x;
-                          })
-                .attr("cy", function (d) {
-                      return d.y;
-                      });
-                });
-
+          node.attr("cx", function (d) {
+            return d.x;
+          })
+          .attr("cy", function (d) {
+            return d.y;
+          });
+        });
        }
 
-
        update(force.nodes(), force.links());
-       //---Insert-------
-       $(document).ready(function(){
-                         $('#thersholdSlider').on('change',function(){
+         //---Insert-------
+         $(document).ready(function(){
+           $('#thersholdSlider').on('change',function(){
 
-                                                  threshold_value=$('#thersholdSlider').val();
+            threshold_value=$('#thersholdSlider').val();
+            graphs.links.splice(0, graphs.links.length);
+            console.log("The selected value is "+ threshold_value);
 
-                                                  graphs.links.splice(0, graphs.links.length);
-                                                  console.log("The selected value is "+ threshold_value);
+            for(var item=0;item<graphRec.links.length;item++){
+              if(graphRec.links[item].value>= threshold_value){
+                graphs.links.push(graphRec.links[item]);
+              }
+            }
+            force.nodes(graphs.nodes);
+            force.links(graphs.links);
+              //.linkDistance(function(d){ return linkScale(threshold_value)});
+              update(graphs.nodes, graphs.links);
 
-                                                  for(var item=0;item<graphRec.links.length;item++){
-                                                        if(graphRec.links[item].value>= threshold_value){
-                                                        graphs.links.push(graphRec.links[item]);
-                                                        }
-                                                  }
-                                                  force.nodes(graphs.nodes);
-                                                  force.links(graphs.links);
-                                                //  force.charge(-200)
-            //.linkDistance(function(d){ return linkScale(threshold_value)});
-                                                  update(graphs.nodes, graphs.links);
+              force.start();
 
-                                                  force.start();
-
-                                            })
-                         });
-       //adjust threshold
+            })
+         });
+         //adjust threshold
 
 
 
-});
+       });
 
 
-//var mis = document.getElementById('mis').innerHTML;
-//graphs = JSON.parse(mis); //This one still an object
-function getColor(study_type) {
-  if (study_type=="bladder")
-    return "blue";
-  else if (study_type=="breast")
-    return "orange";
-  else if (study_type=="liver")
-    return "#c51b8a";
-  else if (study_type=="pancreatic")
-    return "red"
-  else if (study_type=="skin")
-    return "green";
-  else{
-    return "#8856a7";
+  //var mis = document.getElementById('mis').innerHTML;
+  //graphs = JSON.parse(mis); //This one still an object
+  function getColor(study_type) {
+    if (study_type=="bladder")
+      return "blue";
+    else if (study_type=="breast")
+      return "orange";
+    else if (study_type=="liver")
+      return "#c51b8a";
+    else if (study_type=="pancreatic")
+      return "red"
+    else if (study_type=="skin")
+      return "green";
+    else{
+      return "#8856a7";
+    }
   }
-}
 
 
-//---End Insert---
+  //---End Insert---
 
-</script>
+  </script>
