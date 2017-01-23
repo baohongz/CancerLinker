@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+            <title>Alex Nguyen - Data Visualizatio with Cancer Network</title>
+            <script src="https://d3js.org/d3.v3.min.js"></script>
+            <script
+                src="https://code.jquery.com/jquery-2.0.2.js"
+                integrity="sha256-0u0HIBCKddsNUySLqONjMmWAZMQYlxTRbA8RfvtCAW0="
+                crossorigin="anonymous"></script>
+            <script src="js/d3.tip.js"></script>
+            <script src="js/util.js"></script>
+            <script src="js/d3.parcoords.js"></script>
+            <script src="js/network.js"></script>
+            <link rel="stylesheet" type="text/css" href="style.css">
+                </head>
+    
+    
+    <body>
+        <h2>Data Visualization with Cancer Network from <a href ="http://www.cbioportal.org/" target="_blank">cBioPortal</a> </h2>
+        <form>
+            <h3> Link threshold <label id ="lblminthreshold"></label> <input type="range" id="thersholdSlider" name="points"> <label id ="lblmaxthreshold"></label>  </h3>
+        </form>
+        <div id="container">
+            
+        </div>
+        <div id="holders">
+            
+            <div id="proteinHolder"  class="proteinHolder">
+                
+            </div>
+        </div>
+        <div id="clinicalHolder"  class="parcoords">
+            
+        </div>
+        
+    </body>
+</html>
