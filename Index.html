@@ -57,18 +57,18 @@
   <div id="pcg"></div>
   <script>
 
-  var width = 500,
-  height = 500;
+  var width = 800,
+  height = 700;
 
   //Set up the colour scale
   var color = d3.scale.category20();
 
   //Set up the force layout
   var force = d3.layout.force()
-  .linkStrength(0.02)
-  .gravity(0.05)
-  .distance(80)
-  .charge(-160)
+  .linkStrength(0.1)
+  .gravity(0.06)
+  .distance(50)
+  .charge(-300)
   .size([width, height]);
 
   //Append a SVG to the body of the html page. Assign this SVG as an object to svg
@@ -81,8 +81,8 @@
 
   var datatum;
 
+ // d3.csv("data.csv", function(data) {
   d3.csv("study_genes_count.csv", function(data) {
-  //d3.csv("cancer_genes.csv", function(data) {
    datatum = data;
    minfreq =d3.min(data, function(d){return d.freq;});
    maxfreq =d3.max(data, function(d){return d.freq;});
