@@ -1,0 +1,1140 @@
+protein,freq,pdbid,study,study_type,study_name
+ZNF83,59,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+KDM6A,36,3AVR,blca_bgi,bladder,Bladder Urothelial Carcinoma
+TP53,30,1A1U,blca_bgi,bladder,Bladder Urothelial Carcinoma
+PIK3CA,27,2ENQ,blca_bgi,bladder,Bladder Urothelial Carcinoma
+FMN2,26,2YLE,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ARID1A,21,1RYU,blca_bgi,bladder,Bladder Urothelial Carcinoma
+FGFR3,19,1RY7,blca_bgi,bladder,Bladder Urothelial Carcinoma
+CREBBP,18,1JSP,blca_bgi,bladder,Bladder Urothelial Carcinoma
+HRAS,18,121P,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ERBB2,17,1MFG,blca_bgi,bladder,Bladder Urothelial Carcinoma
+STAG2,16,4PJU,blca_bgi,bladder,Bladder Urothelial Carcinoma
+RB1,15,1AD6,blca_bgi,bladder,Bladder Urothelial Carcinoma
+AQP7,15,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+EP300,14,1L3E,blca_bgi,bladder,Bladder Urothelial Carcinoma
+SYNE2,14,4DXS,blca_bgi,bladder,Bladder Urothelial Carcinoma
+SYNE1,13,4DXR,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ZNF233,13,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+HMCN1,13,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+KRTAP5-10,12,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+XIRP2,11,4F14,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ERCC2,11,5IVW,blca_bgi,bladder,Bladder Urothelial Carcinoma
+PRG4,11,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+TTN,10,1BPV,blca_bgi,bladder,Bladder Urothelial Carcinoma
+CSMD3,10,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+NOTCH2,10,2OO4,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ESRRA,9,1XB7,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ZFP36L1,9,1W0V,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ESPL1,9,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ERBB3,9,1M6B,blca_bgi,bladder,Bladder Urothelial Carcinoma
+PLXNB2,9,4E71,blca_bgi,bladder,Bladder Urothelial Carcinoma
+FGFRL1,9,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+KRAS,9,1D8D,blca_bgi,bladder,Bladder Urothelial Carcinoma
+KMT2A,9,2AGH,blca_bgi,bladder,Bladder Urothelial Carcinoma
+DCHS2,9,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+DNAH8,9,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+RELN,9,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+GOLGB1,8,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ACTB,8,3BYH,blca_bgi,bladder,Bladder Urothelial Carcinoma
+MACF1,8,4Z6G,blca_bgi,bladder,Bladder Urothelial Carcinoma
+AHNAK,8,4DRW,blca_bgi,bladder,Bladder Urothelial Carcinoma
+DMXL1,8,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+UBR4,8,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+CABIN1,8,1N6J,blca_bgi,bladder,Bladder Urothelial Carcinoma
+ANK3,8,4O6X,blca_bgi,bladder,Bladder Urothelial Carcinoma
+NF1,8,1NF1,blca_bgi,bladder,Bladder Urothelial Carcinoma
+NFE2L3,8,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+VPS13B,8,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+NHS,7,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+PKHD1,7,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+TG,7,,blca_bgi,bladder,Bladder Urothelial Carcinoma
+TP53,33,1A1U,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+PIK3CA,18,2ENQ,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+RB1,15,1AD6,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+FGFR3,14,1RY7,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+TSC1,7,4Z6Y,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+KRAS,4,1D8D,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+PTEN,2,1D5R,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+CDKN2A,2,1A5E,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+BRAF,2,1UWH,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+AKT1,2,1H10,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+AKT3,1,2X18,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+SUCLG2,1,,blca_mskcc_solit_2012,bladder,"Bladder Cancer (MSKCC, JCO 2013)"
+TP53,78,1A1U,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+KMT2D,56,3UVK,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+KDM6A,48,3AVR,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+ARID1A,41,1RYU,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+RB1,28,1AD6,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+PIK3CA,25,2ENQ,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+FGFR3,22,1RY7,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+EP300,21,1L3E,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+KMT2C,19,2YSM,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+CREBBP,18,1JSP,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+STAG2,18,4PJU,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+FAT1,16,,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+ERBB3,15,1M6B,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+NF1,15,1NF1,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+SETD2,14,2A7O,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+NOTCH1,14,1PB5,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+ERBB2,14,1MFG,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+CDKN1A,14,1AXC,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+KMT2A,13,2AGH,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+ATRX,12,2JM1,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+ATM,10,,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+RICTOR,10,,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+SMARCA4,10,2GRC,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+PBRM1,9,2KTB,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+NOTCH3,8,4ZLP,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+NFKB1,8,1MDI,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+BRCA1,8,1JM7,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+TERT,8,2BCK,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+CDK12,8,4CXA,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+HSP90AA1,7,1BYQ,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+BAP1,7,,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+ETV6,7,1JI7,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+PTEN,7,1D5R,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+WAS,7,1CEE,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+PIK3CG,7,1E8Y,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+TSC1,7,4Z6Y,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+NOTCH4,7,,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+EPHA8,7,1UCV,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+CDKN2A,7,1A5E,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+PTPRD,6,1X5Z,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+ALK,6,2KUP,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+DICER1,6,2EB1,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+PTPRT,6,2OOQ,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+ERBB4,6,2AHX,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+APC,6,1DEB,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+GLI3,6,4BLD,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+WNK1,6,4PWN,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+MTOR,5,1AUE,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+ARID2,5,,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+EPHA2,5,1MQB,blca_mskcc_solit_2014,bladder,"Bladder Cancer (MSKCC, Eur Urol 2014)"
+CDH1,30,1O6S,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+TP53,25,1A1U,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+TERT,12,2BCK,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+RB1,11,1AD6,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+CDKN1A,10,1AXC,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+ARID1A,9,1RYU,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+KMT2D,8,3UVK,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+PIK3CA,8,2ENQ,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+PIK3R1,8,1A0N,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+FAT1,7,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+TET1,6,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+SMARCA4,6,2GRC,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+ERBB3,6,1M6B,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+KMT2C,6,2YSM,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+NF1,5,1NF1,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+KEAP1,5,1U6D,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+KMT2A,5,2AGH,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+ERCC2,5,5IVW,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+BAP1,5,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+MTOR,5,1AUE,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+ERBB2,5,1MFG,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+ATR,5,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+CDKN2A,4,1A5E,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+CDK8,4,3RGF,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+NOTCH4,4,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+EPHB1,4,2DJS,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+MCL1,3,2KBW,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+ASXL1,3,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+AR,3,1E3G,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+DICER1,3,2EB1,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+PBRM1,3,2KTB,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+KIT,3,1PKG,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+PTPRT,3,2OOQ,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+BRCA1,3,1JM7,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+YAP1,3,1JMQ,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+PALB2,3,2W18,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+EP300,3,1L3E,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+PTPRD,3,1X5Z,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+NOTCH1,3,1PB5,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+MPL,3,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+STAG2,3,4PJU,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+NTRK2,3,1HCF,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+IRS2,3,3FQW,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+FAT4,3,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+PTEN,3,1D5R,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+IKBKE,3,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+NOTCH2,3,2OO4,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+NRAS,3,2N9C,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+RAD50,3,,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+PIK3C2G,3,2WWE,blca_plasmacytoid_mskcc_2016,bladder,"Bladder Cancer, Plasmacytoid Variant"
+TTN,167,1BPV,blca_tcga,bladder,Bladder Urothelial Carcinoma
+MUC16,80,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+TP53,76,1A1U,blca_tcga,bladder,Bladder Urothelial Carcinoma
+KMT2D,45,3UVK,blca_tcga,bladder,Bladder Urothelial Carcinoma
+SPTAN1,43,2FOT,blca_tcga,bladder,Bladder Urothelial Carcinoma
+ARID1A,42,1RYU,blca_tcga,bladder,Bladder Urothelial Carcinoma
+FAT4,40,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+SYNE1,38,4DXR,blca_tcga,bladder,Bladder Urothelial Carcinoma
+FLG,37,4PCW,blca_tcga,bladder,Bladder Urothelial Carcinoma
+KDM6A,34,3AVR,blca_tcga,bladder,Bladder Urothelial Carcinoma
+KMT2C,33,2YSM,blca_tcga,bladder,Bladder Urothelial Carcinoma
+HMCN1,32,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+PDE4DIP,30,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+MACF1,30,4Z6G,blca_tcga,bladder,Bladder Urothelial Carcinoma
+BIRC6,30,3CEG,blca_tcga,bladder,Bladder Urothelial Carcinoma
+AHNAK,30,4DRW,blca_tcga,bladder,Bladder Urothelial Carcinoma
+EP300,29,1L3E,blca_tcga,bladder,Bladder Urothelial Carcinoma
+CSMD3,28,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+PIK3CA,27,2ENQ,blca_tcga,bladder,Bladder Urothelial Carcinoma
+DNAH3,27,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+RYR2,26,4JKQ,blca_tcga,bladder,Bladder Urothelial Carcinoma
+MUC17,26,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+SYNE2,26,4DXS,blca_tcga,bladder,Bladder Urothelial Carcinoma
+DNAH10,24,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+KMT2A,24,2AGH,blca_tcga,bladder,Bladder Urothelial Carcinoma
+GPR98,24,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+DNAH5,24,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+FGFR3,24,1RY7,blca_tcga,bladder,Bladder Urothelial Carcinoma
+VPS13D,24,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+ZFHX4,24,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+PKHD1L1,23,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+PLEC,23,1MB8,blca_tcga,bladder,Bladder Urothelial Carcinoma
+ATM,23,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+LYST,23,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+AHNAK2,23,4CN0,blca_tcga,bladder,Bladder Urothelial Carcinoma
+LRP1B,23,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+UBR4,22,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+CREBBP,21,1JSP,blca_tcga,bladder,Bladder Urothelial Carcinoma
+DNAH11,21,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+SACS,21,1IUR,blca_tcga,bladder,Bladder Urothelial Carcinoma
+KIAA0100,21,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+ABCA13,20,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+RYR3,20,4ERV,blca_tcga,bladder,Bladder Urothelial Carcinoma
+DOT1L,20,1NW3,blca_tcga,bladder,Bladder Urothelial Carcinoma
+ADAMTS12,20,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+TCHH,19,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+CELSR3,19,,blca_tcga,bladder,Bladder Urothelial Carcinoma
+HERC1,19,4O2W,blca_tcga,bladder,Bladder Urothelial Carcinoma
+OBSCN,19,1V1C,blca_tcga,bladder,Bladder Urothelial Carcinoma
+NEB,19,1ARK,blca_tcga,bladder,Bladder Urothelial Carcinoma
+TTN,167,1BPV,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+MUC16,80,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+TP53,76,1A1U,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+KMT2D,44,3UVK,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+SPTAN1,43,2FOT,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+ARID1A,41,1RYU,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+FLG,40,4PCW,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+FAT4,39,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+SYNE1,38,4DXR,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+KDM6A,34,3AVR,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+KMT2C,34,2YSM,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+AHNAK,32,4DRW,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+HMCN1,32,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+MACF1,30,4Z6G,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+PDE4DIP,30,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+BIRC6,29,3CEG,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+NBPF10,28,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+EP300,28,1L3E,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+DNAH3,27,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+PIK3CA,27,2ENQ,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+CSMD3,27,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+SYNE2,27,4DXS,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+RYR2,26,4JKQ,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+MUC17,26,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+ZFHX4,25,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+AHNAK2,25,4CN0,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+GPR98,24,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+FGFR3,24,1RY7,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+DNAH10,24,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+LRP1B,24,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+KMT2A,24,2AGH,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+PLEC,23,1MB8,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+LYST,23,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+VPS13D,23,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+DNAH5,23,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+ATM,23,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+PKHD1L1,23,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+UBR4,22,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+SACS,22,1IUR,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+KIAA0100,22,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+ABCA13,20,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+SRRM2,20,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+CREBBP,20,1JSP,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+DNAH11,20,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+DOT1L,20,1NW3,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+NEB,19,1ARK,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+FAT1,19,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+MYH9,19,2LNK,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+OBSCN,19,1V1C,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+LAMA3,19,,blca_tcga_pub,bladder,Bladder Urothelial Carcinoma
+TP53,35,1A1U,brca_bccrc,breast,Breast Invasive Carcinoma
+TNS3,14,,brca_bccrc,breast,Breast Invasive Carcinoma
+ARHGAP5,7,2EE4,brca_bccrc,breast,Breast Invasive Carcinoma
+USH2A,7,,brca_bccrc,breast,Breast Invasive Carcinoma
+PIK3CA,7,2ENQ,brca_bccrc,breast,Breast Invasive Carcinoma
+MYO3A,6,,brca_bccrc,breast,Breast Invasive Carcinoma
+PTEN,6,1D5R,brca_bccrc,breast,Breast Invasive Carcinoma
+PCDHA10,5,,brca_bccrc,breast,Breast Invasive Carcinoma
+ATR,5,,brca_bccrc,breast,Breast Invasive Carcinoma
+PPFIBP2,5,3QH9,brca_bccrc,breast,Breast Invasive Carcinoma
+SYNE1,4,4DXR,brca_bccrc,breast,Breast Invasive Carcinoma
+UBR5,4,1I2T,brca_bccrc,breast,Breast Invasive Carcinoma
+RB1,4,1AD6,brca_bccrc,breast,Breast Invasive Carcinoma
+UBAP2L,4,,brca_bccrc,breast,Breast Invasive Carcinoma
+TTN,4,1BPV,brca_bccrc,breast,Breast Invasive Carcinoma
+HECW1,4,3L4H,brca_bccrc,breast,Breast Invasive Carcinoma
+LRP2,4,2M0P,brca_bccrc,breast,Breast Invasive Carcinoma
+ZNF142,4,,brca_bccrc,breast,Breast Invasive Carcinoma
+GPR112,4,,brca_bccrc,breast,Breast Invasive Carcinoma
+COL6A3,4,1KNT,brca_bccrc,breast,Breast Invasive Carcinoma
+MDN1,4,,brca_bccrc,breast,Breast Invasive Carcinoma
+PALLD,3,2DM2,brca_bccrc,breast,Breast Invasive Carcinoma
+BRCA2,3,1N0W,brca_bccrc,breast,Breast Invasive Carcinoma
+DOCK7,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+KIAA0556,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+SPHKAP,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+MACF1,3,4Z6G,brca_bccrc,breast,Breast Invasive Carcinoma
+ERBB2,3,1MFG,brca_bccrc,breast,Breast Invasive Carcinoma
+DLG5,3,1UIT,brca_bccrc,breast,Breast Invasive Carcinoma
+FLT3,3,1RJB,brca_bccrc,breast,Breast Invasive Carcinoma
+FMN2,3,2YLE,brca_bccrc,breast,Breast Invasive Carcinoma
+GH1,3,1A22,brca_bccrc,breast,Breast Invasive Carcinoma
+SMG5,3,2HWY,brca_bccrc,breast,Breast Invasive Carcinoma
+MUC17,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+DNAH5,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+TSHZ3,3,2DMI,brca_bccrc,breast,Breast Invasive Carcinoma
+LAMA2,3,4YEP,brca_bccrc,breast,Breast Invasive Carcinoma
+MYH2,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+TDO2,3,4PW8,brca_bccrc,breast,Breast Invasive Carcinoma
+PKD1L1,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+CEP192,3,4N7Z,brca_bccrc,breast,Breast Invasive Carcinoma
+FAM208B,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+SYNE2,3,4DXS,brca_bccrc,breast,Breast Invasive Carcinoma
+XRN1,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+HRNR,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+RALGAPA1,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+APOB,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+C11orf30,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+CELSR1,3,,brca_bccrc,breast,Breast Invasive Carcinoma
+PRKCQ,3,1XJD,brca_bccrc,breast,Breast Invasive Carcinoma
+TP53,41,1A1U,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+LAMA1,35,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+SCAMP3,32,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+ULK2,31,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+NOTCH1,31,1PB5,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+NRG1,31,1HAE,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+COL9A1,30,2UUR,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+WBSCR17,28,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+PLEC,27,1MB8,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+RBFOX1,26,2ERR,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+KALRN,26,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+DST,26,3GJO,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+CCSER1,25,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+FAM178B,25,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+UBA7,24,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+ABCD4,24,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+TTN,24,1BPV,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+SHOC2,24,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+PRG4,23,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+TTC7B,22,5DSE,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+VCPIP1,22,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+SDK1,22,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+AFF2,22,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+FAM47C,22,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+WNK1,20,4PWN,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+ZNF415,20,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+TBC1D5,20,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+ALS2CR12,20,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+MACROD2,20,4IQY,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+NEDD9,20,2L81,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+GDPD4,20,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+USP34,19,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+ARHGEF4,19,2DX1,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+CCER1,19,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+LGALS9,19,2EAK,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+ARAP2,18,1X40,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+RTEL1,18,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+NLRP5,18,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+KCNT2,18,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+COG2,17,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+HPS3,17,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+ESPL1,17,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+GPR179,17,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+CD36,17,5LGD,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+AHNAK2,17,4CN0,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+GYS1,16,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+MAGEA1,16,1W72,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+C2orf78,16,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+ARMC12,16,,brca_bccrc_xenograft_2014,breast,Breast cancer patient xenografts
+TP53,31,1A1U,brca_broad,breast,Breast Invasive Carcinoma
+PIK3CA,31,2ENQ,brca_broad,breast,Breast Invasive Carcinoma
+ZBED4,19,,brca_broad,breast,Breast Invasive Carcinoma
+TTN,17,1BPV,brca_broad,breast,Breast Invasive Carcinoma
+BZRAP1,11,,brca_broad,breast,Breast Invasive Carcinoma
+MUC2,11,,brca_broad,breast,Breast Invasive Carcinoma
+MUC16,8,,brca_broad,breast,Breast Invasive Carcinoma
+DST,8,3GJO,brca_broad,breast,Breast Invasive Carcinoma
+KMT2C,8,2YSM,brca_broad,breast,Breast Invasive Carcinoma
+PCGF2,7,,brca_broad,breast,Breast Invasive Carcinoma
+DMD,7,1DXX,brca_broad,breast,Breast Invasive Carcinoma
+NSD1,7,3OOI,brca_broad,breast,Breast Invasive Carcinoma
+CSMD3,7,,brca_broad,breast,Breast Invasive Carcinoma
+WEE1,7,1X8B,brca_broad,breast,Breast Invasive Carcinoma
+PRDM16,6,2N1I,brca_broad,breast,Breast Invasive Carcinoma
+SYNE1,6,4DXR,brca_broad,breast,Breast Invasive Carcinoma
+SPEN,6,1OW1,brca_broad,breast,Breast Invasive Carcinoma
+AKT1,6,1H10,brca_broad,breast,Breast Invasive Carcinoma
+FLG,6,4PCW,brca_broad,breast,Breast Invasive Carcinoma
+RYR3,6,4ERV,brca_broad,breast,Breast Invasive Carcinoma
+MAP3K1,5,,brca_broad,breast,Breast Invasive Carcinoma
+TMEM132D,5,,brca_broad,breast,Breast Invasive Carcinoma
+POMK,5,,brca_broad,breast,Breast Invasive Carcinoma
+CACNA1E,5,3BXL,brca_broad,breast,Breast Invasive Carcinoma
+SI,5,3LPO,brca_broad,breast,Breast Invasive Carcinoma
+PLEC,5,1MB8,brca_broad,breast,Breast Invasive Carcinoma
+GPR112,5,,brca_broad,breast,Breast Invasive Carcinoma
+OBSCN,5,1V1C,brca_broad,breast,Breast Invasive Carcinoma
+SCN3A,4,,brca_broad,breast,Breast Invasive Carcinoma
+SRRM2,4,,brca_broad,breast,Breast Invasive Carcinoma
+KIF26B,4,,brca_broad,breast,Breast Invasive Carcinoma
+ATM,4,,brca_broad,breast,Breast Invasive Carcinoma
+GATA3,4,4HC7,brca_broad,breast,Breast Invasive Carcinoma
+COL11A2,4,,brca_broad,breast,Breast Invasive Carcinoma
+TET3,4,4Z3C,brca_broad,breast,Breast Invasive Carcinoma
+ITPR3,4,,brca_broad,breast,Breast Invasive Carcinoma
+CBFB,4,1CL3,brca_broad,breast,Breast Invasive Carcinoma
+PRDM14,4,,brca_broad,breast,Breast Invasive Carcinoma
+AGRN,4,,brca_broad,breast,Breast Invasive Carcinoma
+HUWE1,4,2EKK,brca_broad,breast,Breast Invasive Carcinoma
+TRPM3,4,,brca_broad,breast,Breast Invasive Carcinoma
+DNAH2,4,,brca_broad,breast,Breast Invasive Carcinoma
+ADAMTS7,4,,brca_broad,breast,Breast Invasive Carcinoma
+COL7A1,4,,brca_broad,breast,Breast Invasive Carcinoma
+MDN1,4,,brca_broad,breast,Breast Invasive Carcinoma
+HMCN1,4,,brca_broad,breast,Breast Invasive Carcinoma
+HLA-A,4,2XPG,brca_broad,breast,Breast Invasive Carcinoma
+DNAH8,4,,brca_broad,breast,Breast Invasive Carcinoma
+HDLBP,4,1VIG,brca_broad,breast,Breast Invasive Carcinoma
+EGFR,4,1DNQ,brca_broad,breast,Breast Invasive Carcinoma
+PIK3CA,928,2ENQ,brca_metabric,breast,Breast Cancer
+AHNAK2,710,4CN0,brca_metabric,breast,Breast Cancer
+TP53,687,1A1U,brca_metabric,breast,Breast Cancer
+MUC16,532,,brca_metabric,breast,Breast Cancer
+SYNE1,373,4DXR,brca_metabric,breast,Breast Cancer
+KMT2C,328,2YSM,brca_metabric,breast,Breast Cancer
+MAP3K1,309,,brca_metabric,breast,Breast Cancer
+AHNAK,264,4DRW,brca_metabric,breast,Breast Cancer
+GATA3,255,4HC7,brca_metabric,breast,Breast Cancer
+DNAH11,237,,brca_metabric,breast,Breast Cancer
+DNAH2,229,,brca_metabric,breast,Breast Cancer
+KMT2D,227,3UVK,brca_metabric,breast,Breast Cancer
+HERC2,223,2KEO,brca_metabric,breast,Breast Cancer
+RYR2,200,4JKQ,brca_metabric,breast,Breast Cancer
+USH2A,197,,brca_metabric,breast,Breast Cancer
+CDH1,189,1O6S,brca_metabric,breast,Breast Cancer
+DNAH5,188,,brca_metabric,breast,Breast Cancer
+NOTCH1,181,1PB5,brca_metabric,breast,Breast Cancer
+PDE4DIP,168,,brca_metabric,breast,Breast Cancer
+TG,164,,brca_metabric,breast,Breast Cancer
+COL6A3,157,1KNT,brca_metabric,breast,Breast Cancer
+BIRC6,152,3CEG,brca_metabric,breast,Breast Cancer
+NCOR2,150,1KKQ,brca_metabric,breast,Breast Cancer
+AKAP9,148,,brca_metabric,breast,Breast Cancer
+ARID1A,145,1RYU,brca_metabric,breast,Breast Cancer
+UTRN,140,1BHD,brca_metabric,breast,Breast Cancer
+TBX3,133,1H6F,brca_metabric,breast,Breast Cancer
+LAMA2,133,4YEP,brca_metabric,breast,Breast Cancer
+STAB2,120,,brca_metabric,breast,Breast Cancer
+COL22A1,114,,brca_metabric,breast,Breast Cancer
+COL12A1,113,,brca_metabric,breast,Breast Cancer
+SHANK2,110,,brca_metabric,breast,Breast Cancer
+THADA,106,,brca_metabric,breast,Breast Cancer
+MYH9,105,2LNK,brca_metabric,breast,Breast Cancer
+ATR,100,,brca_metabric,breast,Breast Cancer
+CBFB,98,1CL3,brca_metabric,breast,Breast Cancer
+NCOR1,96,2EQR,brca_metabric,breast,Breast Cancer
+ARID1B,94,2CXY,brca_metabric,breast,Breast Cancer
+EP300,93,1L3E,brca_metabric,breast,Breast Cancer
+NF1,92,1NF1,brca_metabric,breast,Breast Cancer
+AKT1,92,1H10,brca_metabric,breast,Breast Cancer
+PTPRD,89,1X5Z,brca_metabric,breast,Breast Cancer
+PTEN,88,1D5R,brca_metabric,breast,Breast Cancer
+LAMB3,86,,brca_metabric,breast,Breast Cancer
+RUNX1,85,1CMO,brca_metabric,breast,Breast Cancer
+ERBB2,84,1MFG,brca_metabric,breast,Breast Cancer
+SETD2,84,2A7O,brca_metabric,breast,Breast Cancer
+SETD1A,81,3S8S,brca_metabric,breast,Breast Cancer
+ROS1,79,3ZBF,brca_metabric,breast,Breast Cancer
+THSD7A,77,,brca_metabric,breast,Breast Cancer
+TTN,39,1BPV,brca_sanger,breast,Breast Invasive Carcinoma
+PIK3CA,35,2ENQ,brca_sanger,breast,Breast Invasive Carcinoma
+TP53,30,1A1U,brca_sanger,breast,Breast Invasive Carcinoma
+GATA3,16,4HC7,brca_sanger,breast,Breast Invasive Carcinoma
+MUC16,15,,brca_sanger,breast,Breast Invasive Carcinoma
+KMT2C,12,2YSM,brca_sanger,breast,Breast Invasive Carcinoma
+DST,10,3GJO,brca_sanger,breast,Breast Invasive Carcinoma
+SYNE1,9,4DXR,brca_sanger,breast,Breast Invasive Carcinoma
+CDH1,9,1O6S,brca_sanger,breast,Breast Invasive Carcinoma
+HYDIN,9,2E6J,brca_sanger,breast,Breast Invasive Carcinoma
+MAP3K1,9,,brca_sanger,breast,Breast Invasive Carcinoma
+MTMR4,9,,brca_sanger,breast,Breast Invasive Carcinoma
+FSIP2,8,,brca_sanger,breast,Breast Invasive Carcinoma
+DNAH11,8,,brca_sanger,breast,Breast Invasive Carcinoma
+RYR3,7,4ERV,brca_sanger,breast,Breast Invasive Carcinoma
+AHNAK,7,4DRW,brca_sanger,breast,Breast Invasive Carcinoma
+STAB2,7,,brca_sanger,breast,Breast Invasive Carcinoma
+NCOR1,7,2EQR,brca_sanger,breast,Breast Invasive Carcinoma
+BIRC6,7,3CEG,brca_sanger,breast,Breast Invasive Carcinoma
+DNAH3,7,,brca_sanger,breast,Breast Invasive Carcinoma
+VPS13C,6,,brca_sanger,breast,Breast Invasive Carcinoma
+LRRC7,6,,brca_sanger,breast,Breast Invasive Carcinoma
+MYH2,6,,brca_sanger,breast,Breast Invasive Carcinoma
+PKHD1L1,6,,brca_sanger,breast,Breast Invasive Carcinoma
+GPR112,6,,brca_sanger,breast,Breast Invasive Carcinoma
+EFCAB5,6,,brca_sanger,breast,Breast Invasive Carcinoma
+DIDO1,6,2M3H,brca_sanger,breast,Breast Invasive Carcinoma
+PCLO,6,1UJD,brca_sanger,breast,Breast Invasive Carcinoma
+DNAH8,6,,brca_sanger,breast,Breast Invasive Carcinoma
+HEATR1,5,,brca_sanger,breast,Breast Invasive Carcinoma
+TG,5,,brca_sanger,breast,Breast Invasive Carcinoma
+ABCA13,5,,brca_sanger,breast,Breast Invasive Carcinoma
+FAM135B,5,,brca_sanger,breast,Breast Invasive Carcinoma
+MTHFR,5,,brca_sanger,breast,Breast Invasive Carcinoma
+USP32,5,,brca_sanger,breast,Breast Invasive Carcinoma
+CSMD1,5,2EHF,brca_sanger,breast,Breast Invasive Carcinoma
+SYCP2,5,,brca_sanger,breast,Breast Invasive Carcinoma
+HUWE1,5,2EKK,brca_sanger,breast,Breast Invasive Carcinoma
+DNAH6,5,,brca_sanger,breast,Breast Invasive Carcinoma
+SNAP91,5,,brca_sanger,breast,Breast Invasive Carcinoma
+MAP2K4,5,3ALN,brca_sanger,breast,Breast Invasive Carcinoma
+ANKRD30A,5,,brca_sanger,breast,Breast Invasive Carcinoma
+SYNE2,5,4DXS,brca_sanger,breast,Breast Invasive Carcinoma
+HERC1,5,4O2W,brca_sanger,breast,Breast Invasive Carcinoma
+NBAS,5,,brca_sanger,breast,Breast Invasive Carcinoma
+GPR98,5,,brca_sanger,breast,Breast Invasive Carcinoma
+AKT1,5,1H10,brca_sanger,breast,Breast Invasive Carcinoma
+TMEM132B,5,,brca_sanger,breast,Breast Invasive Carcinoma
+DNAH2,5,,brca_sanger,breast,Breast Invasive Carcinoma
+PRRC2B,5,,brca_sanger,breast,Breast Invasive Carcinoma
+PIK3CA,379,2ENQ,brca_tcga,breast,Breast Invasive Carcinoma
+TTN,356,1BPV,brca_tcga,breast,Breast Invasive Carcinoma
+TP53,324,1A1U,brca_tcga,breast,Breast Invasive Carcinoma
+MUC16,151,,brca_tcga,breast,Breast Invasive Carcinoma
+CDH1,121,1O6S,brca_tcga,breast,Breast Invasive Carcinoma
+GATA3,105,4HC7,brca_tcga,breast,Breast Invasive Carcinoma
+MAP3K1,104,,brca_tcga,breast,Breast Invasive Carcinoma
+MUC12,101,,brca_tcga,breast,Breast Invasive Carcinoma
+KMT2C,92,2YSM,brca_tcga,breast,Breast Invasive Carcinoma
+MUC4,91,,brca_tcga,breast,Breast Invasive Carcinoma
+RYR2,76,4JKQ,brca_tcga,breast,Breast Invasive Carcinoma
+SYNE1,74,4DXR,brca_tcga,breast,Breast Invasive Carcinoma
+DST,68,3GJO,brca_tcga,breast,Breast Invasive Carcinoma
+FLG,67,4PCW,brca_tcga,breast,Breast Invasive Carcinoma
+HMCN1,66,,brca_tcga,breast,Breast Invasive Carcinoma
+DMD,64,1DXX,brca_tcga,breast,Breast Invasive Carcinoma
+RYR3,63,4ERV,brca_tcga,breast,Breast Invasive Carcinoma
+FCGBP,63,,brca_tcga,breast,Breast Invasive Carcinoma
+OBSCN,61,1V1C,brca_tcga,breast,Breast Invasive Carcinoma
+MUC5B,60,,brca_tcga,breast,Breast Invasive Carcinoma
+USH2A,59,,brca_tcga,breast,Breast Invasive Carcinoma
+SYNE2,59,4DXS,brca_tcga,breast,Breast Invasive Carcinoma
+SPEN,58,1OW1,brca_tcga,breast,Breast Invasive Carcinoma
+AHNAK,54,4DRW,brca_tcga,breast,Breast Invasive Carcinoma
+NEB,53,1ARK,brca_tcga,breast,Breast Invasive Carcinoma
+HRNR,52,,brca_tcga,breast,Breast Invasive Carcinoma
+MUC17,51,,brca_tcga,breast,Breast Invasive Carcinoma
+CROCCP2,51,,brca_tcga,breast,Breast Invasive Carcinoma
+XIRP2,51,4F14,brca_tcga,breast,Breast Invasive Carcinoma
+AHNAK2,49,4CN0,brca_tcga,breast,Breast Invasive Carcinoma
+ABCA13,47,,brca_tcga,breast,Breast Invasive Carcinoma
+UBR4,47,,brca_tcga,breast,Breast Invasive Carcinoma
+RYR1,47,,brca_tcga,breast,Breast Invasive Carcinoma
+SPTA1,47,1OWA,brca_tcga,breast,Breast Invasive Carcinoma
+APOB,47,,brca_tcga,breast,Breast Invasive Carcinoma
+CSMD1,46,2EHF,brca_tcga,breast,Breast Invasive Carcinoma
+FAT3,46,,brca_tcga,breast,Breast Invasive Carcinoma
+HUWE1,46,2EKK,brca_tcga,breast,Breast Invasive Carcinoma
+MXRA5,45,,brca_tcga,breast,Breast Invasive Carcinoma
+LRP2,45,2M0P,brca_tcga,breast,Breast Invasive Carcinoma
+MDN1,45,,brca_tcga,breast,Breast Invasive Carcinoma
+ZFHX4,45,,brca_tcga,breast,Breast Invasive Carcinoma
+HYDIN,44,2E6J,brca_tcga,breast,Breast Invasive Carcinoma
+PCLO,44,1UJD,brca_tcga,breast,Breast Invasive Carcinoma
+CMYA5,44,,brca_tcga,breast,Breast Invasive Carcinoma
+NCOR1,44,2EQR,brca_tcga,breast,Breast Invasive Carcinoma
+MACF1,43,4Z6G,brca_tcga,breast,Breast Invasive Carcinoma
+GPR112,42,,brca_tcga,breast,Breast Invasive Carcinoma
+GPR98,41,,brca_tcga,breast,Breast Invasive Carcinoma
+RNF213,41,,brca_tcga,breast,Breast Invasive Carcinoma
+PIK3CA,320,2ENQ,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+TP53,291,1A1U,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+TTN,238,1BPV,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+MUC16,121,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+GATA3,108,4HC7,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+CDH1,108,1O6S,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+MAP3K1,104,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+MUC4,83,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+KMT2C,76,2YSM,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+MUC12,68,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+SYNE1,60,4DXR,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+FLG,58,4PCW,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+RYR2,56,4JKQ,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+SPEN,54,1OW1,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+OBSCN,53,1V1C,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+RYR3,53,4ERV,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+USH2A,51,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+MUC5B,49,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+HMCN1,48,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+NEB,48,1ARK,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+DMD,47,1DXX,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+NCOA3,45,1KBH,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+PTEN,45,1D5R,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+ABCA13,43,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+AHNAK2,42,4CN0,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+NCOR1,42,2EQR,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+TBP,42,1C9B,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+SYNE2,42,4DXS,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+ZFHX4,41,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+FCGBP,40,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+FAT3,40,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+MDN1,39,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+MUC17,39,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+RNF213,38,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+APOB,38,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+LRP2,38,2M0P,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+SPTA1,38,1OWA,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+RUNX1,37,1CMO,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+ARID1A,37,1RYU,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+XIRP2,37,4F14,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+HUWE1,37,2EKK,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+KMT2D,35,3UVK,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+RYR1,35,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+HYDIN,35,2E6J,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+HRNR,34,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+FOXA1,34,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+ZNF384,34,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+LRP1,34,1CR8,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+CSMD2,33,,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+CHD4,33,1MM2,brca_tcga_pub2015,breast,Breast Invasive Carcinoma
+PIK3CA,208,2ENQ,brca_tcga_pub,breast,Breast Invasive Carcinoma
+TP53,198,1A1U,brca_tcga_pub,breast,Breast Invasive Carcinoma
+TTN,116,1BPV,brca_tcga_pub,breast,Breast Invasive Carcinoma
+MAP3K1,67,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+MUC16,62,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+GATA3,60,4HC7,brca_tcga_pub,breast,Breast Invasive Carcinoma
+KMT2C,41,2YSM,brca_tcga_pub,breast,Breast Invasive Carcinoma
+RYR2,37,4JKQ,brca_tcga_pub,breast,Breast Invasive Carcinoma
+CROCCP2,36,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+USH2A,34,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+CDH1,34,1O6S,brca_tcga_pub,breast,Breast Invasive Carcinoma
+OBSCN,33,1V1C,brca_tcga_pub,breast,Breast Invasive Carcinoma
+MUC4,33,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+FLG,30,4PCW,brca_tcga_pub,breast,Breast Invasive Carcinoma
+CSMD1,29,2EHF,brca_tcga_pub,breast,Breast Invasive Carcinoma
+BRCA2,25,1N0W,brca_tcga_pub,breast,Breast Invasive Carcinoma
+SPEN,24,1OW1,brca_tcga_pub,breast,Breast Invasive Carcinoma
+RYR3,24,4ERV,brca_tcga_pub,breast,Breast Invasive Carcinoma
+SYNE1,24,4DXR,brca_tcga_pub,breast,Breast Invasive Carcinoma
+MUC5B,23,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+MUC17,23,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+MAP2K4,22,3ALN,brca_tcga_pub,breast,Breast Invasive Carcinoma
+ATM,22,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+FAT3,22,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+SSPO,22,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+SYNE2,22,4DXS,brca_tcga_pub,breast,Breast Invasive Carcinoma
+AHNAK2,21,4CN0,brca_tcga_pub,breast,Breast Invasive Carcinoma
+LRP2,21,2M0P,brca_tcga_pub,breast,Breast Invasive Carcinoma
+BRCA1,21,1JM7,brca_tcga_pub,breast,Breast Invasive Carcinoma
+HMCN1,21,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+APOB,20,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+ZFHX4,20,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+RP11-32B5.7,19,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+RUNX1,19,1CMO,brca_tcga_pub,breast,Breast Invasive Carcinoma
+PTEN,19,1D5R,brca_tcga_pub,breast,Breast Invasive Carcinoma
+DMD,19,1DXX,brca_tcga_pub,breast,Breast Invasive Carcinoma
+NCOR1,19,2EQR,brca_tcga_pub,breast,Breast Invasive Carcinoma
+NEB,19,1ARK,brca_tcga_pub,breast,Breast Invasive Carcinoma
+SPTA1,19,1OWA,brca_tcga_pub,breast,Breast Invasive Carcinoma
+MUC2,18,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+UBR4,18,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+PLEC,18,1MB8,brca_tcga_pub,breast,Breast Invasive Carcinoma
+HYDIN,18,2E6J,brca_tcga_pub,breast,Breast Invasive Carcinoma
+RELN,17,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+XIRP2,17,4F14,brca_tcga_pub,breast,Breast Invasive Carcinoma
+RYR1,17,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+SPI1,17,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+TENM1,16,,brca_tcga_pub,breast,Breast Invasive Carcinoma
+NF1,16,1NF1,brca_tcga_pub,breast,Breast Invasive Carcinoma
+TTN,99,1BPV,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+TP53,75,1A1U,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+MUC16,69,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+CTNNB1,56,1G3J,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+PCLO,39,1UJD,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+GPR98,35,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+HMCN1,35,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+MUC4,32,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+RYR2,31,4JKQ,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+DST,29,3GJO,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+OBSCN,29,1V1C,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+DNAH5,27,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+HYDIN,27,2E6J,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+APOB,25,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+LRP1B,25,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+SYNE1,25,4DXR,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+XIRP2,24,4F14,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+ZNF208,24,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+FLG,24,4PCW,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+FBN2,23,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+PRUNE2,22,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+VCAN,21,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+CSMD3,21,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+RYR3,21,4ERV,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+MDN1,20,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+AHNAK2,19,4CN0,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+RYR1,19,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+KIAA1109,18,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+ABCA13,18,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+DNAH7,18,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+FSIP2,18,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+UBR4,18,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+PXDN,17,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+NEB,17,1ARK,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+PKHD1L1,17,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+COL6A6,17,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+C17orf97,17,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+MUC12,17,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+COL7A1,17,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+DCHS2,16,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+FLG2,16,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+MACF1,16,4Z6G,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+SYNE2,16,4DXS,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+DNAH8,16,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+HERC2,16,2KEO,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+DNAH9,16,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+SACS,16,1IUR,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+CENPF,15,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+IFITM3,15,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+CIT,15,,lihc_amc_prv,liver,"Liver Hepatocellular Carcinoma (AMC, Hepatology 2014)"
+TP53,14,1A1U,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2012"
+ATM,5,,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2013"
+IGSF10,3,,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2014"
+BAZ2B,3,2E7O,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2015"
+CTNNB1,3,1G3J,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2016"
+WWP1,3,1ND7,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2017"
+ZIC3,3,2EJ4,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2018"
+OTOP1,3,,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2019"
+ARID1A,3,1RYU,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2020"
+ERRFI1,3,2RF9,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2021"
+ALB,3,1AO6,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2022"
+USP25,3,2MUX,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2023"
+GXYLT1,3,,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2024"
+UBR3,1,,lihc_rik,liver,"Liver Hepatocellular Carcinoma (RIKEN, Nat Genet 2025"
+TTN,192,1BPV,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+TP53,14,1A1U,lihc_riken,liver,Liver Hepatocellular Carcinoma
+ATM,5,,lihc_riken,liver,Liver Hepatocellular Carcinoma
+IGSF10,3,,lihc_riken,liver,Liver Hepatocellular Carcinoma
+BAZ2B,3,2E7O,lihc_riken,liver,Liver Hepatocellular Carcinoma
+CTNNB1,3,1G3J,lihc_riken,liver,Liver Hepatocellular Carcinoma
+WWP1,3,1ND7,lihc_riken,liver,Liver Hepatocellular Carcinoma
+ZIC3,3,2EJ4,lihc_riken,liver,Liver Hepatocellular Carcinoma
+OTOP1,3,,lihc_riken,liver,Liver Hepatocellular Carcinoma
+ARID1A,3,1RYU,lihc_riken,liver,Liver Hepatocellular Carcinoma
+ERRFI1,3,2RF9,lihc_riken,liver,Liver Hepatocellular Carcinoma
+ALB,3,1AO6,lihc_riken,liver,Liver Hepatocellular Carcinoma
+USP25,3,2MUX,lihc_riken,liver,Liver Hepatocellular Carcinoma
+GXYLT1,3,,lihc_riken,liver,Liver Hepatocellular Carcinoma
+UBR3,1,,lihc_riken,liver,Liver Hepatocellular Carcinoma
+TTN,192,1BPV,lihc_tcg,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+TP53,120,1A1U,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+CTNNB1,107,1G3J,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+MUC16,93,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+OBSCN,57,1V1C,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+PCLO,55,1UJD,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+ALB,55,1AO6,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+RYR2,54,4JKQ,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+ND5,54,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+CSMD3,52,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+APOB,48,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+HMCN1,45,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+ABCA13,43,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+XIRP2,42,4F14,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+LRP1B,41,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+CACNA1E,39,3BXL,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+MUC4,39,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+CSMD1,39,2EHF,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+RYR1,38,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+FLG,37,4PCW,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+USH2A,37,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+ALMS1,37,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+SYNE1,37,4DXR,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+NBEA,36,1MI1,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+FRAS1,36,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+ARID1A,36,1RYU,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+SPTA1,35,1OWA,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+DNAH7,34,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+DNAH6,34,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+AHNAK2,34,4CN0,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+FAT3,33,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+EYS,33,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+SYNE2,32,4DXS,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+GPR98,32,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+MUC2,32,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+DST,31,3GJO,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+COL11A1,31,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+DCHS2,31,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+MUC17,30,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+DNAH9,29,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+FBN2,29,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+FASN,28,1XKT,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+RYR3,28,4ERV,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+DYNC2H1,28,4RH7,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+FREM2,28,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+BIRC6,28,3CEG,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+DNAH5,28,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+ZFHX4,28,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+MDN1,27,,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+KMT2D,27,3UVK,lihc_tcg,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+KMT2D,27,3UVK,lihc_tcga,liver,"Liver Hepatocellular Carcinoma (TCGA, Provisional)"
+KRAS,97,1D8D,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+TP53,33,1A1U,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+SMAD4,16,1DD1,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+TTN,15,1BPV,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+NEB,7,1ARK,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+PEG3,7,4BHX,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+KMT2C,7,2YSM,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+CSMD1,6,2EHF,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+FLG,5,4PCW,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+XIRP2,5,4F14,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+MUC16,5,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+NALCN,5,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+RYR3,5,4ERV,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+ATM,5,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+HMCN1,5,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+RYR2,5,4JKQ,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+DNAH5,4,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+SF3B1,4,2F9D,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+MT-CO2,4,3VRJ,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+PXDN,4,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+PCDH15,4,4XHZ,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+ARID1A,4,1RYU,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+TGFBR2,4,1KTZ,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+DMD,4,1DXX,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+TTI1,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+PCDHB6,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+NBAS,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+MYO9A,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+OR2M5,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+VCAN,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+ALMS1,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+MAP1B,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+ABCA12,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+ADAMTS20,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+EPC1,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+LRP1B,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+TOP2A,3,1LWZ,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+GRIA1,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+PRKDC,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+SYNE1,3,4DXR,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+CDH4,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+SLIT2,3,2V70,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+ITIH6,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+TEX15,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+AFF2,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+ARID2,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+MAP2K4,3,3ALN,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+MAGEA6,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+FAT3,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+SUV420H1,3,,paad_icgc,pancreatic,"Pancreatic Adenocarcinoma (ICGC, Nature 2012)"
+KRAS,348,1D8D,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+TP53,258,1A1U,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+TTN,91,1BPV,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+SMAD4,89,1DD1,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+CDKN2A,77,1A5E,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MT-ND5,47,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+SYNE1,36,4DXR,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MT-CYB,34,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+GLI3,33,4BLD,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+ARID1A,32,1RYU,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MUC16,31,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+KMT2C,29,2YSM,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+RYR1,29,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+OBSCN,29,1V1C,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MT-ND4,28,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+HMCN1,28,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+RYR2,26,4JKQ,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+FLG,25,4PCW,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+LRP1B,25,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+KMT2D,25,3UVK,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+FAT3,25,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MT-CO1,25,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+RYR3,23,4ERV,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MUC4,22,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+RNF43,22,4KNG,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+DNAH11,22,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+TENM3,21,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+CSMD1,20,2EHF,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+WDFY4,20,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+CSMD3,19,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MT-ND1,18,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MT-CO2,18,3VRJ,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+TGFBR2,18,1KTZ,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+PXDN,18,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MT-CO3,18,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+FAT4,17,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+LRP2,17,2M0P,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+GPR98,17,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+ATM,17,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+THSD7B,17,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+NEB,17,1ARK,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+MT-ND2,16,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+CACNA1H,16,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+GNAS,15,5G53,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+BAI3,15,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+DNAH5,15,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+ZNF536,15,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+FSIP2,15,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+TENM4,14,,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+PLEC,14,1MB8,paad_qcmg_uq_2016,pancreatic,"Pancreatic Adenocarcinoma (QCMG, Nature 2016)"
+KRAS,142,1D8D,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+TTN,123,1BPV,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+TP53,105,1A1U,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+MUC16,57,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+SMAD4,38,1DD1,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+LRP1B,33,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+SYNE1,32,4DXR,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+OBSCN,30,1V1C,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+PLEC,28,1MB8,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+USH2A,28,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+RYR3,28,4ERV,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+RYR1,26,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+HMCN1,25,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+FAT4,24,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+DST,23,3GJO,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+CDKN2A,22,1A5E,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+FAT2,22,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+AHNAK,22,4DRW,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+MACF1,22,4Z6G,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+MUC5B,22,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+CSMD3,21,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+NEB,21,1ARK,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+FCGBP,20,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+ASPM,20,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+SPTA1,20,1OWA,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+SYNE2,20,4DXS,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+FAT3,19,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+RELN,19,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+HERC2,19,2KEO,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+DIDO1,19,2M3H,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+PKD1,18,1B4R,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+ANKRD11,18,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+FREM2,18,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+MYO15A,18,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+SCN5A,18,2KBI,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+LRP1,18,1CR8,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+CUBN,17,3KQ4,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+PCDH15,17,4XHZ,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+FLG,17,4PCW,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+PRUNE2,17,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+COL5A1,17,1A89,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+SSPO,17,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+DNAH1,17,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+APOB,16,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+TRRAP,16,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+MKI67,16,1R21,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+ZFHX3,16,2DA1,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+DNAH10,16,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+DNAH9,16,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+DSCAM,16,,paad_tcga,pancreatic,"Pancreatic Adenocarcinoma (TCGA, Provisional)"
+KRAS,103,1D8D,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+TP53,55,1A1U,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+SMAD4,22,1DD1,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+TTN,22,1BPV,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+ZNF814,20,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+MUC16,20,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+MUC2,18,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+FLG,16,4PCW,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+MUC5B,11,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+RP11-407N17.3,11,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+TUBBP5,11,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+PCMTD1,10,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+TMPRSS13,10,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+NBPF9,10,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+MST1L,9,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+OBSCN,9,1V1C,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+C10orf113,8,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+RBMXL3,8,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+NF1,8,1NF1,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+HERC2,8,2KEO,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+ZAN,8,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+ATXN1,8,1OA8,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+COL18A1,8,1BNL,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+MAGEC1,8,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+KRT4,8,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+PRB4,8,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+CDK2AP2P2,8,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+ARID1A,8,1RYU,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+COL14A1,7,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+FAT3,7,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+MUC4,7,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+CDKN2A,7,1A5E,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+MUC17,7,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+DGKB,7,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+KMT2C,7,2YSM,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+SLC35G6,7,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+LOXHD1,7,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+AHNAK2,7,4CN0,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+FRG1B,7,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+CSMD1,7,2EHF,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+NLRP1,7,1PN5,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+FOLH1,7,1Z8L,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+PRAMEF4,7,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+DNAH14,6,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+FCGBP,6,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+DNAH7,6,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+DNAH3,6,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+RGPD3,6,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+KRTAP10-7,6,,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+HDGFRP2,6,3EAE,paad_utsw_2015,pancreatic,"Pancreatic Cancer (UTSW, Nat Commun 2015)"
+TTN,1034,1BPV,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+MUC16,643,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+DNAH5,408,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+LRP1B,304,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+MGAM,296,2QLY,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+CSMD1,250,2EHF,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+CSMD2,242,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+ANK3,207,4O6X,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+PCLO,207,1UJD,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+PTPRT,204,2OOQ,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+DNAH7,199,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+PKHD1L1,199,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+HYDIN,197,2E6J,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+TPTE,195,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+PREX2,188,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+DNAH8,188,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+BAGE2,180,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+DMBT1,175,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+STAB2,174,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+GPR98,173,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+SPTA1,172,1OWA,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+MROH2B,171,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+CSMD3,167,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+USH2A,166,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+DNAH9,166,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+RYR1,164,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+NEB,164,1ARK,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+SCN10A,161,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+SYNE1,159,4DXR,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+CACNA1E,155,3BXL,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+DOCK3,151,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+CACNA2D3,149,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+OBSCN,145,1V1C,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+PCSK5,142,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+DCC,139,2ED7,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+PCDH15,138,4XHZ,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+APOB,136,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+COL5A1,136,1A89,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+MYH2,135,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+DNAH3,132,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+UNC79,132,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+THSD7B,131,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+ANKRD30A,130,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+RP11-492D6.3,128,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+PAPPA2,126,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+MYH1,126,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+CNTNAP2,125,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+PDE4DIP,123,,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+RYR2,122,4JKQ,skcm_broad,skin,"Skin Cutaneous Melanoma (Broad, Cell 2012)"
+DNAH5,97,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+TTN,67,1BPV,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+LRP1B,64,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+DNAH8,49,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+BRAF,45,1UWH,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+ANK3,42,4O6X,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+COL4A5,39,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+DNAH9,39,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+CSMD2,38,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+DCC,37,2ED7,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+CSMD3,37,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+SCN10A,36,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+SCN11A,36,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+COL3A1,35,2V53,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+USH2A,34,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+RELN,33,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+PTPRD,32,1X5Z,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+SI,30,3LPO,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+COL5A1,30,1A89,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+LRP2,29,2M0P,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+PREX2,29,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+RP1,29,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+COL11A1,29,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+COL22A1,29,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+DNAH3,28,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+SPHKAP,27,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+ADAMTS20,27,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+MUC17,27,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+XDH,26,2CKJ,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+COL14A1,26,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+STAB2,26,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+APOB,26,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+MYH4,26,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+UNC79,25,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+TNR,24,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+CD163L1,24,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+FAT4,23,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+PCDH15,23,4XHZ,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+CD163,23,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+GRIN2B,23,1S11,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+MYH1,23,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+DSG4,23,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+VWF,22,1AO3,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+C6,22,3T5O,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+C1orf173,22,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+LOXHD1,21,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+ABCA4,21,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+RYR1,21,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+ADAM7,21,,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+FLG,21,4PCW,skcm_yale,skin,"Skin Cutaneous Melanoma (Yale, Nat Genet 2012)"
+TTN,852,1BPV,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+MUC16,301,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+OBSCN,206,1V1C,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+TP53,204,1A1U,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+SYNE1,202,4DXR,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+LRP1B,181,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+FAT4,180,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+FLG,170,4PCW,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+CSMD3,168,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+PCLO,151,1UJD,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+AHNAK2,138,4CN0,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+HMCN1,137,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+FAT3,135,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+RYR2,134,4JKQ,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+ARID1A,133,1RYU,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+DNAH5,125,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+CSMD1,125,2EHF,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+DST,123,3GJO,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+ZFHX4,122,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+KMT2D,120,3UVK,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+MUC5B,119,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+HERC2,119,2KEO,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+PLEC,117,1MB8,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+RYR3,112,4ERV,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+SPTA1,110,1OWA,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+USH2A,106,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+NEB,105,1ARK,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+RIMS2,103,1V27,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+SACS,101,1IUR,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+LAMA1,99,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+ZFHX3,99,2DA1,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+MDN1,99,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+DNAH8,99,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+RYR1,98,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+HSPG2,97,3SH4,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+DNAH11,96,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+DNAH7,96,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+KMT2C,96,2YSM,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+XIRP2,96,4F14,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+PREX2,92,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+PCDH10,91,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+SYNE2,91,4DXS,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+GLI3,90,4BLD,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+ABCA13,90,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+DMD,90,1DXX,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+PCDH15,89,4XHZ,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+CUBN,87,3KQ4,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+LRP1,87,1CR8,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+RNF213,87,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
+DNAH3,86,,stad_tcga,stomach,"Stomach Adenocarcinoma (TCGA, Provisional)"
