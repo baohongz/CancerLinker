@@ -1,4 +1,7 @@
-# CancerNetwork
+# CancerMapper: Interactive Explorations of Cancer Study Network 
+
+![ScreenShot](https://github.com/iDataVisualizationLab/CancerNetwork/blob/master/images/TeaserImage.pngs)
+
 Major Features:
 
 Try Cancer Mapper [Web demo](https://www.youtube.com/embed/ioyaTPani4A).
