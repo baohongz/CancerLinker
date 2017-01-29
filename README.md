@@ -1,6 +1,6 @@
 # CancerMapper: Interactive Explorations of Cancer Study Network 
 
-![ScreenShot](https://github.com/iDataVisualizationLab/CancerNetwork/blob/master/images/TeaserImage.pngs)
+![ScreenShot](https://github.com/iDataVisualizationLab/CancerNetwork/blob/master/images/TeaserImage.png)
 
 Major Features:
 
