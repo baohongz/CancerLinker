@@ -1,4 +1,4 @@
-# CancerMapper: Interactive Explorations of Cancer Study Network 
+# CancerMapper: Interactive Explorations of Cancer Network 
 
 ![ScreenShot](https://github.com/iDataVisualizationLab/CancerNetwork/blob/master/images/TeaserImage.png)
 
