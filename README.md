@@ -4,7 +4,7 @@
 
 Major Features:
 
-Try Cancer Mapper [Web demo](https://www.youtube.com/embed/ioyaTPani4A).
+Try Cancer Mapper [Video demo](https://www.youtube.com/embed/ioyaTPani4A).
 
 • The project gives a network visualization of the protein network comprising of different cancer study id's which are related based on their common genes.
 
