@@ -3,6 +3,7 @@
 ![ScreenShot](https://github.com/iDataVisualizationLab/CancerNetwork/blob/master/images/TeaserImage.png)
 
 Major Features:
+Try  [Web deom](http://myweb.ttu.edu/vinhtngu/cancermapper/)
 
 Try Cancer Mapper [Video demo](https://www.youtube.com/embed/ioyaTPani4A).
 
