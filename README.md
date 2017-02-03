@@ -25,5 +25,8 @@ Try Cancer Mapper [Video demo](https://www.youtube.com/embed/ioyaTPani4A).
 • The protein images of the bubble chart are taken from this site: http://www.rcsb.org/pdb/home/home.do. Pdb Id was collected from in internet with approximately 15000 records. 
 
 # References: 
-Vehlow et al. Visual Analysis of Biological Data-Knowledge Networks [Video](https://www.youtube.com/watch?v=yeJaSYkA0-Q)
+Vehlow et al. *Visual Analysis of Biological Data-Knowledge Networks*. This paper proposes the application of degree-of-interest functions to filter dense biological networks 
+[Video](https://www.youtube.com/watch?v=yeJaSYkA0-Q)
 
+Ham and Perer *Search, Show Context, Expand on Demand* introduced the concept of jumpstarting a network exploration with an initial search and then expanding the resulting network interactively step by step.
+[PDF](http://perer.org/papers/adamPerer-DOIGraphs-InfoVis2009.pdf)
