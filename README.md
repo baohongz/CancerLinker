@@ -24,3 +24,6 @@ Try Cancer Mapper [Video demo](https://www.youtube.com/embed/ioyaTPani4A).
 
 • The protein images of the bubble chart are taken from this site: http://www.rcsb.org/pdb/home/home.do. Pdb Id was collected from in internet with approximately 15000 records. 
 
+# References: 
+Vehlow et al. Visual Analysis of Biological Data-Knowledge Networks [Video](https://www.youtube.com/watch?v=yeJaSYkA0-Q)
+
