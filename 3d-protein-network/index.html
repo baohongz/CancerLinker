@@ -18,49 +18,17 @@
     #viewport1 {
         width: 300px;
         height: 300px;
-        margin: auto;
-        position: absolute;
-        left:0;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        background-color: #FF0000;
     }
 
     #viewport2 {
         width: 300px;
         height: 300px;
-        margin: auto;
-        position: absolute;
-        left:0;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        background-color: #FF0000;
     }
 
 
-    .protein-canvas {
-        width: 300px;
-        height: 300px;
-        margin: auto;
-        position: absolute;
-        left:0;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        background-color: #FF0000;
-    }
-
-    .circle-border {
-        width: 500px;
-        height: 500px;
-
+    canvas {
         border-radius: 50%;
-        border: 3px solid blue;
-        position: relative;
-
-
+        border:3px solid #000000;
     }
 
 </style>
@@ -77,28 +45,21 @@
 <script src="libs/ngl.esm.js"></script>
 
 
+<div id="viewport1"></div>
 
-<div class="circle-border">
-
-    <div id="viewport1"></div>
-
-</div>
 
 
 <br/>
 <br/>
 
 
-<div class="circle-border">
-
-    <div id="viewport2"></div>
-
-
-</div>
+<div id="viewport2"></div>
 
 
 
 
+<!--<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000; border-radius: 50%">-->
+<!--</canvas>-->
 
 
 <!--<script src="app.js"></script>-->
