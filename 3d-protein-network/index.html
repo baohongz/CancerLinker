@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>NGL - 3D Protein Network</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <!--<link rel="stylesheet" href="css/font-awesome.min.css" />-->
+    <!--<link rel="stylesheet" href="css/main.css" />-->
+    <!--<link rel="subresource" href="css/light.css" />-->
+    <!--<link rel="subresource" href="css/dark.css" />-->
+
+
+    <!-- NGL -->
+<style>
+    .circleBase {
+        border-radius: 50%;
+    }
+
+
+    .type1 {
+        width: 100px;
+        height: 100px;
+        background: yellow;
+        border: 3px solid red;
+    }
+
+</style>
+</head>
+
+<body>
+<script src="libs/d3.v3.min.js"></script>
+<script src="libs/three.js"></script>
+<script src="loaders/PDBLoader.js"></script>
+<script src="renderers/CSS2DRenderer.js"></script>
+<script src="controls/OrbitControls.js"></script>
+
+<script src="libs/ngl.js"></script>
+<script src="libs/ngl.esm.js"></script>
+
+
+<div id="viewport"  style="width:400px; height:400px;"></div>
+
+
+
+<div id="viewport2" style="width:600px; height:600px;"></div>
+
+
+<!--<script src="app.js"></script>-->
+<script src="ngl-app.js"></script>
+
+</body>
+</html>
