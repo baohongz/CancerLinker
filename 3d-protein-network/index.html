@@ -13,16 +13,54 @@
 
     <!-- NGL -->
 <style>
-    .circleBase {
-        border-radius: 50%;
+
+
+    #viewport1 {
+        width: 300px;
+        height: 300px;
+        margin: auto;
+        position: absolute;
+        left:0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-color: #FF0000;
+    }
+
+    #viewport2 {
+        width: 300px;
+        height: 300px;
+        margin: auto;
+        position: absolute;
+        left:0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-color: #FF0000;
     }
 
 
-    .type1 {
-        width: 100px;
-        height: 100px;
-        background: yellow;
-        border: 3px solid red;
+    .protein-canvas {
+        width: 300px;
+        height: 300px;
+        margin: auto;
+        position: absolute;
+        left:0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-color: #FF0000;
+    }
+
+    .circle-border {
+        width: 500px;
+        height: 500px;
+
+        border-radius: 50%;
+        border: 3px solid blue;
+        position: relative;
+
+
     }
 
 </style>
@@ -39,11 +77,28 @@
 <script src="libs/ngl.esm.js"></script>
 
 
-<div id="viewport"  style="width:400px; height:400px;"></div>
+
+<div class="circle-border">
+
+    <div id="viewport1"></div>
+
+</div>
+
+
+<br/>
+<br/>
+
+
+<div class="circle-border">
+
+    <div id="viewport2"></div>
+
+
+</div>
 
 
 
-<div id="viewport2" style="width:600px; height:600px;"></div>
+
 
 
 <!--<script src="app.js"></script>-->

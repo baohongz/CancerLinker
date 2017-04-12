@@ -2,25 +2,14 @@ var stage;
 var stage2;
 
 document.addEventListener( "DOMContentLoaded", function(){
-    stage = new NGL.Stage( "viewport" );
+    stage = new NGL.Stage( "viewport1" );
     stage.setParameters({backgroundColor:"white"} );
-
-    stage.loadFile( "data/OR17_210-nonanone_1-100.pdb", { defaultRepresentation: true } ).then(function () {
-        var cD3 = d3.select("#viewport").select('canvas')[0];
-
-        var vp = document.getElementById("viewport");
-        var c = vp.firstChild;
+    stage.loadFile( "data/OR17_210-nonanone_1-100.pdb", { defaultRepresentation: true } );
 
 
-        var ctx = c.getContext("2d");
-        ctx.beginPath();
-        ctx.arc(100,75,50,0,2*Math.PI);
-        ctx.stroke();
-    });
-
-
-    stage2 = new NGL.Stage( "viewport1" );
-    stage2.loadFile( "data/OR17_210-nonanone_1-100.pdb", { defaultRepresentation: true, backgroundColor: "red" } );
+    stage2 = new NGL.Stage( "viewport2" );
+    stage2 .setParameters({backgroundColor:"white"} );
+    stage2.loadFile( "data/OR17_210-nonanone_1-100.pdb", { defaultRepresentation: true} );
 
 
     // stage.loadFile( "data/OR17_210-nonanone_1-100.pdb").then( function( comp ){
